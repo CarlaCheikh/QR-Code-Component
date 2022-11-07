@@ -16,13 +16,13 @@
 
 @media (min-width: 375px) {
     main{
-        width: 370px;
+        width: 350px;
     } 
 }
 
 @media (min-width: 1440px) {
     main{
-        width: 370px;
+        width: 350px;
     }  
 }
 
@@ -59,6 +59,7 @@ main .text {
 main .text h1 {
     color: var(--Dark-blue);
     margin-bottom:15px;
+    font-size: 1.5em;
 }
 
 main .text p {
